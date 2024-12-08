@@ -5,5 +5,6 @@ The objective of this code is to learn the Langflow fundamentals using the Tavil
 
 ## Flowchart
 Langflow design for Tavily search agent.
+
 ![Flowchart](search_ai_tool.drawio.png)
 
