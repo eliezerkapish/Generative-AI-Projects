@@ -21,14 +21,14 @@ curl https://ollama.ai/install.sh | sh
 - import subprocess
 - import json
 
-# Configure Ollama environment
+### Configure Ollama environment
 - os.environ["OLLAMA_HOST"] = "0.0.0.0:11434"
 - os.environ["OLLAMA_ORIGINS"] = '*'
 
-# Start Ollama Server
+### Start Ollama Server
 - subprocess.Popen(['ollama', "serve"])
 
-## Output
+### Output
 - The server will pull and load the required model data.
 - Logs will display the model loading process.
 - After completion, the server will be available at http://127.0.0.1:11434.
