@@ -5,7 +5,8 @@ This project demonstrates a RAG (Retrieval-Augmented Generation) architecture co
 
 ## Technologies Used
 - Libraries:
-- Transformers
-- Sentence-TransformersFAIS
-- FAISS
+  - Transformers
+  - Sentence-TransformersFAIS
+  - FAISS
 - Pre-trained Models: T5-small and all-MiniLM-L6-v2
+
