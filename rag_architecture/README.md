@@ -10,3 +10,7 @@ This project demonstrates a RAG (Retrieval-Augmented Generation) architecture co
   - FAISS
 - Pre-trained Models: T5-small and all-MiniLM-L6-v2
 
+## Flowchart
+Langflow design for Tavily search agent.
+
+![Flowchart](search_ai_rag.drawio.png)
