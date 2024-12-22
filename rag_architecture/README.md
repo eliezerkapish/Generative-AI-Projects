@@ -13,4 +13,4 @@ This project demonstrates a RAG (Retrieval-Augmented Generation) architecture co
 ## Flowchart
 Langflow design for Tavily search agent.
 
-![Flowchart](search rag.drawio.png)
+![Flowchart](rag.drawio.png)
