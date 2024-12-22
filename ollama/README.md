@@ -9,9 +9,9 @@ This project demonstrates how to set up and test the Ollama framework with the L
 - Internet connection for downloading dependencies
 
 ## Installation
-1.Install required system libraries:
+- Install required system libraries:
 sudo apt-get install -y pciutils
-2.Install Ollama:
+- Install Ollama:
 curl https://ollama.ai/install.sh | sh
 
 ## Output
