@@ -1,5 +1,8 @@
 ## RAG Architecture
 
+## 🙌 Credits
+This practice was based on the original repository "Projetos Práticos de IA" by Scoras Academy.
+
 ## Objective
 This project demonstrates a RAG (Retrieval-Augmented Generation) architecture combining information retrieval and natural language generation to enhance AI responses.
 
@@ -29,9 +32,7 @@ python main.py
 Question: What is Bitcoin?
 Answer: digital currency
 
-## 🙌 Credits
 
-This project was based on the original repository "Projetos Práticos de IA" by Scoras Academy.
 
 
 
