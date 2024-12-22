@@ -14,6 +14,20 @@ sudo apt-get install -y pciutils
 - Install Ollama:
 curl https://ollama.ai/install.sh | sh
 
+## Enviroment Setup
+import os
+import threading
+import requests
+import subprocess
+import json
+
+# Configure Ollama environment
+os.environ["OLLAMA_HOST"] = "0.0.0.0:11434"
+os.environ["OLLAMA_ORIGINS"] = '*'
+
+# Start Ollama Server
+subprocess.Popen(['ollama', "serve"])
+
 ## Output
 - The server will pull and load the required model data.
 - Logs will display the model loading process.
