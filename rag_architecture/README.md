@@ -4,8 +4,8 @@
 This project demonstrates a RAG (Retrieval-Augmented Generation) architecture combining information retrieval and natural language generation to enhance AI responses.
 
 ## Technologies Used
-- Libraries:
+-Libraries:
 -Transformers
--Sentence-Transformers
+-Sentence-TransformersFAIS
 -FAISS
-- Pre-trained Models: T5-small and all-MiniLM-L6-v2
+-Pre-trained Models: T5-small and all-MiniLM-L6-v2
