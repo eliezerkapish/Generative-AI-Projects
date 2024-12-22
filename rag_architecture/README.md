@@ -28,3 +28,13 @@ Langflow design for Tavily search agent.
 python main.py
 Question: What is Bitcoin?
 Answer: digital currency
+
+## 🙌 Credits
+
+This project was based on the original repository "Projetos Práticos de IA" by Scoras Academy.
+
+## 📝 License
+
+This project is licensed under the [MIT](LICENSE) license.
+
+
