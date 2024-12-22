@@ -13,3 +13,8 @@ This project demonstrates how to set up and test the Ollama framework with the L
 sudo apt-get install -y pciutils
 2. Install Ollama:
 curl https://ollama.ai/install.sh | sh
+
+## Output
+- The server will pull and load the required model data.
+- Logs will display the model loading process.
+- After completion, the server will be available at http://127.0.0.1:11434.
