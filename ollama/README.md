@@ -11,7 +11,7 @@ This project demonstrates how to set up and test the Ollama framework with the L
 ## Installation
 1.Install required system libraries:
 sudo apt-get install -y pciutils
-2. Install Ollama:
+2.Install Ollama:
 curl https://ollama.ai/install.sh | sh
 
 ## Output
